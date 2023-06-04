@@ -1,0 +1,22 @@
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\bin\Debug\Negocio.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\bin\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\bin\Debug\Datos.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\obj\Debug\Negocio.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\bin\Debug\Negocio.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\bin\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\bin\Debug\Datos.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\obj\Debug\Negocio.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Negocio\obj\Debug\Negocio.pdb

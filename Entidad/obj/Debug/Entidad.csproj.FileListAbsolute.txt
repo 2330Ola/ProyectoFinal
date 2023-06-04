@@ -1,0 +1,12 @@
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Entidad\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Entidad\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Entidad\obj\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Entidad\obj\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Entidad\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Entidad\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Entidad\obj\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Entidad\obj\Debug\Entidad.pdb

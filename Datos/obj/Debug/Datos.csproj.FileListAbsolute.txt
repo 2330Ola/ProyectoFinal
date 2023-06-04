@@ -1,0 +1,18 @@
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\bin\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\bin\Debug\Datos.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\obj\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Datos\obj\Debug\Datos.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\bin\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\bin\Debug\Datos.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\obj\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Datos\obj\Debug\Datos.pdb

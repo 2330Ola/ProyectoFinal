@@ -1,0 +1,49 @@
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FormBase.resources
+C:\Users\olajo\OneDrive\Documentos\Visual Studio 2022\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Entidad.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Datos.dll
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FormBase.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmInventario.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmAgregarProducto.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmEditarProducto.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.frmProveedores.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmAgregarProveedor.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmEditarProveedor.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmAgregarCliente.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmEditarCliente.resources
+C:\Users\olajo\OneDrive\Escritorio\Sistema_Ventas\Presentacion\obj\Debug\Presentacion.FrmClientes.resources
